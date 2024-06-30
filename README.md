@@ -1,4 +1,4 @@
-# Title
+# QTimeControl
 
 This is an qt6 based final project for pku course OOP, by sjr and wkf.
 

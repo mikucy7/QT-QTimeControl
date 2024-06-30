@@ -18,9 +18,7 @@ Also, for students in pku it is a helpful tool to try a canteen if you have no i
 ## Introduction
 
 you can view it in [introduction file](https://github.com/RichardLitt/standard-readme/blob/main/example-readmes/CONTRIBUTING.md)!
-for the demonstration video, see it [here](https://disk.pku.edu.cn/link/AAB363174F4B884842B9F1C25B0906BC9A)
-文件夹名：QT作业提交-62组（我们可能都有光明的未来）
-有效期限：2024-07-30 21:47))!
+for the demonstration video, see it [here](https://disk.pku.edu.cn/link/AAB363174F4B884842B9F1C25B0906BC9A)!
 
 ## Contributing
 

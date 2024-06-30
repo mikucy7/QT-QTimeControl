@@ -731,7 +731,7 @@ void MainWindow::setmap(){
     ui->tableWidget->setColumnCount(0);
     QDateTime mon=stdate.addDays(7*weekpass);
     QStringList verHeader;	//行表头
-    verHeader <<"日期"<< "7:00~8:00" << "8:00~10:00" << "10:00~12:00" << "12:00~13:00" << "13:00~15:00" << "15:00~17:00" << "17:00~1:00" << "19:00~21:00" << "21:00~23:00" << "23:00~1:00";
+    verHeader <<"日期"<< "7:00~8:00" << "8:00~10:00" << "10:00~12:00" << "12:00~13:00" << "13:00~15:00" << "15:00~17:00" << "17:00~19:00" << "19:00~21:00" << "21:00~23:00" << "23:00~1:00";
     ui->tableWidget->setRowCount(verHeader.size());
     ui->tableWidget->setVerticalHeaderLabels(verHeader);
     QStringList horHeader;	//行表头

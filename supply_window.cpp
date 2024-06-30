@@ -166,7 +166,7 @@ void supply_window::on_Find__clicked()
         if(ok)
             break;
     }
-    if(ok){
+    if(ok&&now!=0){
         for(int i=0;i<l;i++){
             if(a[i]){
                 QString line = lines[s+i];

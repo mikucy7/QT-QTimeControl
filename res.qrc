@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/bgimage1.jpg</file>
+        <file>image/bgimage2.jpg</file>
+        <file>image/hdimage1.png</file>
+        <file>image/testimage1.jpg</file>
+        <file>image/bgimage3.jpg</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>user_data/user001/ddls.txt</file>
+        <file>user_data/user001/global.txt</file>
+        <file>user_data/user001/projects.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>collect_record</class>
+ <widget class="QDialog" name="collect_record">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>810</width>
+    <height>540</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>collection</string>
+  </property>
+  <widget class="QLabel" name="image">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>810</width>
+     <height>540</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp1">
+   <property name="geometry">
+    <rect>
+     <x>122</x>
+     <y>71</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp2">
+   <property name="geometry">
+    <rect>
+     <x>272</x>
+     <y>340</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp3">
+   <property name="geometry">
+    <rect>
+     <x>498</x>
+     <y>40</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp4">
+   <property name="geometry">
+    <rect>
+     <x>624</x>
+     <y>172</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp5">
+   <property name="geometry">
+    <rect>
+     <x>58</x>
+     <y>224</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp6">
+   <property name="geometry">
+    <rect>
+     <x>317</x>
+     <y>132</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp7">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>393</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp8">
+   <property name="geometry">
+    <rect>
+     <x>676</x>
+     <y>440</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp9">
+   <property name="geometry">
+    <rect>
+     <x>149</x>
+     <y>392</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp10">
+   <property name="geometry">
+    <rect>
+     <x>485</x>
+     <y>161</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp11">
+   <property name="geometry">
+    <rect>
+     <x>557</x>
+     <y>292</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp12">
+   <property name="geometry">
+    <rect>
+     <x>374</x>
+     <y>447</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp13">
+   <property name="geometry">
+    <rect>
+     <x>216</x>
+     <y>198</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp14">
+   <property name="geometry">
+    <rect>
+     <x>382</x>
+     <y>270</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp15">
+   <property name="geometry">
+    <rect>
+     <x>690</x>
+     <y>282</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="temp16">
+   <property name="geometry">
+    <rect>
+     <x>706</x>
+     <y>80</y>
+     <width>41</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>look</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>17</width>
+     <height>12</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
